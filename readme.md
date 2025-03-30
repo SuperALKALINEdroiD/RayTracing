@@ -1,6 +1,6 @@
 # My attempt at ray tracing in golang uaing SDL2
 
-# Dev Logs: 
+## Dev Logs: 
 
 1. March 30
 
