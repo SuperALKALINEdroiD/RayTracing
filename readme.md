@@ -1,4 +1,4 @@
-# My attempt at ray tracing in golang uaing SDL2
+# My attempt at ray tracing in golang using SDL2
 
 ## Dev Logs: 
 
